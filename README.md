@@ -57,8 +57,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-router-sample.git
-cd react-router-sample
+git clone https://github.com/zealouszohaib/routing-in-React.git
 ```
 
 2. Install dependencies:
